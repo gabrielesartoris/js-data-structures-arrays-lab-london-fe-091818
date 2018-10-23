@@ -12,3 +12,6 @@ function destructivelyRemoveLastDriver() {
   
 }
 
+function destructivelyRemoveFirstDriver() {
+  
+}
