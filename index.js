@@ -29,10 +29,10 @@ function prependDriver(name) {
 }
 
 function removeLastDriver() {
-  drivers.slice('Garfield');
+ 
   
 }
 
 function removeFirstDriver() {
-  drivers.slice(1);
+ 
 }
