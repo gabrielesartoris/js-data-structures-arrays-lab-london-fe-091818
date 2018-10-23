@@ -29,11 +29,11 @@ function prependDriver(name) {
 }
 
 function removeLastDriver() {
- copyOfdrivers = drivers.slice(1);
+ drivers.slice(0,2);
    
 }
 
 function removeFirstDriver() {
- drivers.slice(0);
+ drivers.slice();
  
 }
