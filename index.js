@@ -10,7 +10,7 @@ function destructivelyPrependDriver(name) {
 }
 
 function destructivelyRemoveLastDriver() {
-  
+  drivers.pop('Milo');
 }
 
 function destructivelyRemoveFirstDriver() {
